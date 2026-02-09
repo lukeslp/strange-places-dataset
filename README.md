@@ -43,7 +43,14 @@ dataset_info:
 
 # Strange Places v5.1
 
-341,256 mysterious phenomena from NASA, NOAA, USGS, OpenStreetMap, and the Megalithic Portal.
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE.md)
+[![Records](https://img.shields.io/badge/Records-341%2C256-brightgreen)](https://github.com/lukeslp/strange-places-dataset)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-HuggingFace-yellow)](https://huggingface.co/datasets/lukeslp/strange-places-mysterious-phenomena)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-20BEFF)](https://www.kaggle.com/datasets/lucassteuber/strange-places-mysterious-phenomena)
+
+341,256 mysterious phenomena from NASA, NOAA, USGS, OpenStreetMap, and the Megalithic Portal. Every record is georeferenced and sourced from authoritative databases — no synthetic data.
+
+Part of the [Data Trove](https://dr.eamer.dev/datavis/data_trove/) collection at [dr.eamer.dev](https://dr.eamer.dev).
 
 ## What's Inside
 
@@ -114,15 +121,16 @@ caves = [r for r in data if r['category'] == 'caves']
 - **v5.0** (2025-12): Added storm events, thermal springs
 - **v4.0** (2025-11): Initial release
 
-## Distribution
+## Related
 
-- **Kaggle**: [lucassteuber/strange-places-mysterious-phenomena](https://www.kaggle.com/datasets/lucassteuber/strange-places-mysterious-phenomena)
-- **HuggingFace**: [lukeslp/strange-places](https://huggingface.co/datasets/lukeslp/strange-places)
-- **GitHub Gist**: [Demo Notebook](https://gist.github.com/lukeslp/2c97e17445d16d6515c85061c1aa78a0)
+- [Data Trove](https://dr.eamer.dev/datavis/data_trove/) — full dataset catalog
+- [lukesteuber.com](https://lukesteuber.com) — portfolio
+- [Kaggle](https://www.kaggle.com/datasets/lucassteuber/strange-places-mysterious-phenomena)
+- [HuggingFace](https://huggingface.co/datasets/lukeslp/strange-places-mysterious-phenomena)
 
 ## Author
 
-Luke Steuber | luke@lukesteuber.com | @lukesteuber.com (Bluesky)
+[Luke Steuber](https://lukesteuber.com) — [@lukesteuber.com](https://bsky.app/profile/lukesteuber.com) on Bluesky
 
 ## Structured Data (JSON-LD)
 
