@@ -4,6 +4,6 @@
   "licenses": [{"name": "CC-BY-4.0"}],
   "subtitle": "354K georeferenced phenomena: UFOs, bigfoot, meteorites, earthquakes, caves",
   "description": "354,770 georeferenced mysterious phenomena from NASA, NOAA, USGS, BFRO, NUFORC, OpenStreetMap, the Megalithic Portal, and the Shadowlands Haunted Places Index. Every record comes from authoritative databases -- no synthetic data.\n\n14 categories: Tornadoes (71K), Caves (70K), UFO Sightings (60K), Megalithic Sites (60K), Meteorites (32K), Ghost Towns (18K), Storms (14K), Haunted Places (9.7K), Thermal Springs (5K), Bigfoot (3.8K), Earthquakes (3.7K), Shipwrecks (3.6K), Fireballs (863), Volcanoes (170).\n\nAll real coordinates from government and authoritative sources. Global coverage.",
-  "keywords": ["geography", "geospatial", "natural-disasters", "meteorites", "earthquakes"],
+  "keywords": ["geography", "geospatial"],
   "isPrivate": false
 }
