@@ -50,6 +50,11 @@ with open('data.json') as f:
 }
 ```
 
+
+## Distribution
+
+- **Kaggle**: [lucassteuber/strange-places-mysterious-phenomena](https://www.kaggle.com/datasets/lucassteuber/strange-places-mysterious-phenomena)
+
 ## Author
 
 **Luke Steuber**
