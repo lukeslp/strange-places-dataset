@@ -5,7 +5,13 @@ task_categories:
 language:
   - en
 tags:
-
+  - geography
+  - ufos
+  - meteorites
+  - earthquakes
+  - geospatial
+  - phenomena
+  - mapping
 pretty_name: Strange Places v5.2
 size_categories:
   - 100K<n<1M
@@ -23,7 +29,7 @@ All real coordinates from government and authoritative sources. Global coverage.
 
 ## Dataset Structure
 
-[Check the demo notebook for data exploration examples]
+See `demo_notebook.ipynb` for data exploration examples.
 
 ## Usage
 
